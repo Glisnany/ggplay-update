@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GG Play - Atualizações e Novidades</title>
+    <style>
+        /* Estilos Base baseados na identidade do GG Play */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: #000000;
+            color: #FFFFFF;
+            padding: 20px;
+        }
+
+        /* Container alinhado no canto superior esquerdo */
+        .container {
+            background-color: #0F0F0F;
+            border: 1px solid #1A1A1A;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 500px;
+            padding: 25px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Cabeçalho com a Logomarca */
+        .header {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .logo-img {
+            max-width: 180px;
+            height: auto;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 13px;
+            color: #AAAAAA;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Seção de Destaque da Versão */
+        .version-badge {
+            display: inline-block;
+            background-color: rgba(255, 215, 0, 0.1);
+            color: #FFD700;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            border: 1px solid rgba(255, 215, 0, 0.2);
+        }
+
+        /* Seção de Novidades */
+        .news-section {
+            background-color: #1E1E1E;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+
+        .news-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #FFFFFF;
+            border-left: 4px solid #FFD700;
+            padding-left: 10px;
+        }
+
+        .news-list {
+            list-style: none;
+        }
+
+        .news-list li {
+            font-size: 14px;
+            color: #AAAAAA;
+            margin-bottom: 12px;
+            line-height: 1.5;
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .news-list li::before {
+            content: "•";
+            color: #FFD700;
+            font-weight: bold;
+            display: inline-block;
+            width: 15px;
+            flex-shrink: 0;
+        }
+
+        /* Botão de Ação */
+        .btn-update {
+            display: block;
+            background-color: #4CAF50;
+            color: #FFFFFF;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 14px;
+            border-radius: 8px;
+            text-align: center;
+            transition: background 0.2s ease;
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+        }
+
+        .btn-update:hover {
+            background-color: #43A047;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <img src="banner.png" alt="GG Play Logo" class="logo-img">
+            <div class="subtitle">Central de Atualizações</div>
+        </div>
+
+        <div class="version-badge">Nova Versão Disponível: v1.10</div>
+
+        <div class="news-section">
+            <div class="news-title">Novidades desta versão</div>
+            <ul class="news-list">
+                <li>Sincronização instantânea da lista de canais favoritos em nuvem.</li>
+                <li>Suporte a novos formatos de vídeo e redução do buffer em conexões lentas.</li>
+                <li>Correção no carregamento das sinopses e imagens da grade de programação (EPG).</li>
+                <li>Otimização no consumo de memória RAM para dispositivos Android TV e TV Box.</li>
+            </ul>
+        </div>
+
+        <a href="https://www.mediafire.com/file/9a5egnx5hvsd9zl/GG_Play_v.10.apk/file" class="btn-update" target="_blank">
+            Baixar Atualização (APK)
+        </a>
+    </div>
+
+</body>
+</html>
