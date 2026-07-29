@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="big_buck_bunny" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.bip.jpg" group-title="Open Movies", Big Buck Bunny (4K / CC-BY)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="sintel" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="Open Movies", Sintel (4K Open Movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 tvg-id="tears_of_steel" tvg-name="Tears of Steel" group-title="Open Movies", Tears of Steel (Sci-Fi CC-BY)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 tvg-id="elephants_dream" tvg-name="Elephant's Dream" group-title="Open Movies", Elephant's Dream (Open Source Film)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-id="hls_test_1" tvg-name="Apple Test HLS 1080p" group-title="HLS Test Streams", Apple Advanced Stream (BipBop Test)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+
+#EXTINF:-1 tvg-id="hls_test_2" tvg-name="Akamai Test Stream" group-title="HLS Test Streams", Akamai Multi-Bitrate HLS Test
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+
+#EXTINF:-1 tvg-id="for_bigger_blazes" tvg-name="For Bigger Blazes" group-title="Demo Content", Chromecast Demo: For Bigger Blazes
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+
+#EXTINF:-1 tvg-id="for_bigger_escapes" tvg-name="For Bigger Escapes" group-title="Demo Content", Chromecast Demo: For Bigger Escapes
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+
+#EXTINF:-1 tvg-id="for_bigger_fun" tvg-name="For Bigger Fun" group-title="Demo Content", Chromecast Demo: For Bigger Fun
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+
+#EXTINF:-1 tvg-id="for_bigger_joyrides" tvg-name="For Bigger Joyrides" group-title="Demo Content", Chromecast Demo: For Bigger Joyrides
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+
+#EXTINF:-1 tvg-id="for_bigger_meltdowns" tvg-name="For Bigger Meltdowns" group-title="Demo Content", Chromecast Demo: For Bigger Meltdowns
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+
+#EXTINF:-1 tvg-id="subaru_outback" tvg-name="Subaru Outback Reel" group-title="Demo Content", Open Commercial Demo - Nature Reel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
+
+#EXTINF:-1 tvg-id="we_are_going_on_bullrun" tvg-name="Bullrun Demo" group-title="Demo Content", Open Commercial Demo - Driving Reel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+
+#EXTINF:-1 tvg-id="what_car_can_you_get" tvg-name="What Car Demo" group-title="Demo Content", Open Commercial Demo - Car Reel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
+
+#EXTINF:-1 tvg-id="nasa_tv" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="Public Streams", NASA TV Public Domain Live Stream
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
