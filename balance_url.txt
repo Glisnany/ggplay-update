@@ -1,3 +1,4 @@
 http://gbox.click/get.php?username=045795&password=056092&type=m3u_plus&output=mpegts
 http://dnsgood.site/get.php?username=220492&password=405660&type=m3u_plus&output=mpegts
 http://lulu.dns2.site/get.php?username=844731&password=785995&type=m3u_plus&output=m3u8
+http://crcns.com:80/get.php?username=qrp6d2pb5&password=34gjwmksa&type=m3u&output=ts
