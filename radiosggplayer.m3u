@@ -26,427 +26,427 @@ https://26673.live.streamtheworld.com/CBN_FLOAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_JOIAAC.aac
 #EXTINF:-1 tvg-id="CBNSalvador.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Notícias e Esportes",CBN Salvador 100.7 FM
 https://sv1.audiostream.com.br/radio/8030/stream
-#EXTINF:-1 tvg-id="BandNewsSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9
+#EXTINF:-1 tvg-id="BandNewsSP.br" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac
-#EXTINF:-1 tvg-id="BandNewsSPHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9 (HLS)
+#EXTINF:-1 tvg-id="BandNewsSPHLS.br" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
-#EXTINF:-1 tvg-id="BandNewsSPMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9 (MP3)
+#EXTINF:-1 tvg-id="BandNewsSPMP3.br" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Notícias e Esportes",BandNews FM São Paulo 96.9 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SP.mp3
-#EXTINF:-1 tvg-id="BandNewsRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM Rio de Janeiro 90.3
+#EXTINF:-1 tvg-id="BandNewsRJ.br" tvg-logo="https://ui-avatars.com/api/?name=BandNews+Rio+de+Janeiro&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Notícias e Esportes",BandNews FM Rio de Janeiro 90.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.aac
-#EXTINF:-1 tvg-id="BandNewsRJMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM Rio de Janeiro 90.3 (MP3)
+#EXTINF:-1 tvg-id="BandNewsRJMP3.br" tvg-logo="https://ui-avatars.com/api/?name=BandNews+Rio+de+Janeiro&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Notícias e Esportes",BandNews FM Rio de Janeiro 90.3 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJ.mp3
-#EXTINF:-1 tvg-id="BandNewsBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM Belo Horizonte 89.5
+#EXTINF:-1 tvg-id="BandNewsBH.br" tvg-logo="https://ui-avatars.com/api/?name=BandNews+Belo+Horizonte&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Notícias e Esportes",BandNews FM Belo Horizonte 89.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac
-#EXTINF:-1 tvg-id="BandNewsPOA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",BandNews FM Porto Alegre 99.3
+#EXTINF:-1 tvg-id="BandNewsPOA.br" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Notícias e Esportes",BandNews FM Porto Alegre 99.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_POAAAC.aac
 #EXTINF:-1 tvg-id="BandNewsSalvador.br" tvg-logo="https://img.band.com.br/image/2026/06/25/logo-bandnews-fm-10043.png" group-title="Notícias e Esportes",BandNews FM Salvador 99.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SALAAC.aac
-#EXTINF:-1 tvg-id="RadioBandeirantesSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Bandeirantes São Paulo 90.9 FM
+#EXTINF:-1 tvg-id="RadioBandeirantesSP.br" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1722854885.png" group-title="Notícias e Esportes",Rádio Bandeirantes São Paulo 90.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC.aac
-#EXTINF:-1 tvg-id="RadioBandeirantesMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Bandeirantes São Paulo (MP3)
+#EXTINF:-1 tvg-id="RadioBandeirantesMP3.br" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1722854885.png" group-title="Notícias e Esportes",Rádio Bandeirantes São Paulo (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTES.mp3
-#EXTINF:-1 tvg-id="RadioBandeirantesPOA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Bandeirantes Porto Alegre 94.9 FM
+#EXTINF:-1 tvg-id="RadioBandeirantesPOA.br" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1722854885.png" group-title="Notícias e Esportes",Rádio Bandeirantes Porto Alegre 94.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RB_POAAAC.aac
-#EXTINF:-1 tvg-id="RadioItatiaia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Itatiaia 95.7 FM (MG)
+#EXTINF:-1 tvg-id="RadioItatiaia.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg" group-title="Notícias e Esportes",Rádio Itatiaia 95.7 FM (MG)
 https://8903.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioItatiaiaEsportes.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Itatiaia Esportes (MG)
+#EXTINF:-1 tvg-id="RadioItatiaiaEsportes.br" tvg-logo="https://ui-avatars.com/api/?name=Itatiaia+Esportes&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Notícias e Esportes",Itatiaia Esportes (MG)
 https://8905.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioItatiaiaOuroPreto.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Itatiaia Ouro Preto 89.3 (MG)
+#EXTINF:-1 tvg-id="RadioItatiaiaOuroPreto.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg" group-title="Notícias e Esportes",Itatiaia Ouro Preto 89.3 (MG)
 https://8220.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="SuperRadioTupi.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Super Rádio Tupi 96.5 FM (RJ)
+#EXTINF:-1 tvg-id="SuperRadioTupi.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18490_1637166379.png" group-title="Notícias e Esportes",Super Rádio Tupi 96.5 FM (RJ)
 https://8923.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioInconfidenciaAM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Inconfidência 880 AM (MG)
+#EXTINF:-1 tvg-id="RadioInconfidenciaAM.br" tvg-logo="https://img.radios.com.br/radio/lg/radio139_1488725850.jpg" group-title="Notícias e Esportes",Rádio Inconfidência 880 AM (MG)
 https://8118.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioBandaB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Banda B 79.3 FM (PR)
+#EXTINF:-1 tvg-id="RadioBandaB.br" tvg-logo="https://www.bandab.com.br/wp-content/themes/bandab/assets/img/icons/apple-touch-icon.png" group-title="Notícias e Esportes",Rádio Banda B 79.3 FM (PR)
 https://8138.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioPaiquere.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Paiquerê 91.7 FM (PR)
+#EXTINF:-1 tvg-id="RadioPaiquere.br" tvg-logo="https://www.paiquere.com.br/wp-content/uploads/2024/02/fav.jpeg#170" group-title="Notícias e Esportes",Rádio Paiquerê 91.7 FM (PR)
 https://8148.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioSuperBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio Super 91.7 FM (MG)
+#EXTINF:-1 tvg-id="RadioSuperBH.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18490_1637166379.png" group-title="Notícias e Esportes",Rádio Super 91.7 FM (MG)
 https://8214.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTransamericaEsportes.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Transamérica Esportes (SP)
+#EXTINF:-1 tvg-id="RadioTransamericaEsportes.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Notícias e Esportes",Transamérica Esportes (SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.m3u8
-#EXTINF:-1 tvg-id="RadioABC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Notícias e Esportes",Rádio ABC 1570 AM (SP)
+#EXTINF:-1 tvg-id="RadioABC.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+ABC+1570&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Notícias e Esportes",Rádio ABC 1570 AM (SP)
 https://8398.brasilstream.com.br/stream
 
 # === POP, ROCK E JOVEM ===
-#EXTINF:-1 tvg-id="MixFMSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3
+#EXTINF:-1 tvg-id="MixFMSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 tvg-id="MixFMSPHLS.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3 (HLS)
+#EXTINF:-1 tvg-id="MixFMSPHLS.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.m3u8
-#EXTINF:-1 tvg-id="MixSPMP3.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3 (MP3)
+#EXTINF:-1 tvg-id="MixSPMP3.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM São Paulo 106.3 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULO.mp3
-#EXTINF:-1 tvg-id="MixFMRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM Rio de Janeiro 102.1
+#EXTINF:-1 tvg-id="MixFMRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM Rio de Janeiro 102.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC.aac
-#EXTINF:-1 tvg-id="MixRJMP3.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM Rio de Janeiro 102.1 (MP3)
+#EXTINF:-1 tvg-id="MixRJMP3.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM Rio de Janeiro 102.1 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIO.mp3
-#EXTINF:-1 tvg-id="MixFMPOA.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM Porto Alegre 107.1
+#EXTINF:-1 tvg-id="MixFMPOA.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM Porto Alegre 107.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
-#EXTINF:-1 tvg-id="MixFMCampinas.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Mix FM Campinas 101.1
+#EXTINF:-1 tvg-id="MixFMCampinas.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Mix FM Campinas 101.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CAMPINASAAC.aac
-#EXTINF:-1 tvg-id="89FMRadioRock.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (SP)
+#EXTINF:-1 tvg-id="89FMRadioRock.br" tvg-logo="https://ui-avatars.com/api/?name=A+R%C3%A1dio+Rock&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac
-#EXTINF:-1 tvg-id="89FMRadioRockHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (HLS)
+#EXTINF:-1 tvg-id="89FMRadioRockHLS.br" tvg-logo="https://ui-avatars.com/api/?name=A+R%C3%A1dio+Rock&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.m3u8
-#EXTINF:-1 tvg-id="89RockMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (MP3)
+#EXTINF:-1 tvg-id="89RockMP3.br" tvg-logo="https://ui-avatars.com/api/?name=A+R%C3%A1dio+Rock&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",89 FM A Rádio Rock 89.1 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3
-#EXTINF:-1 tvg-id="TransamericaSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM São Paulo 100.1
+#EXTINF:-1 tvg-id="TransamericaSP.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM São Paulo 100.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
-#EXTINF:-1 tvg-id="TransamericaSPMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM São Paulo (MP3)
+#EXTINF:-1 tvg-id="TransamericaSPMP3.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM São Paulo (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP.mp3
-#EXTINF:-1 tvg-id="TransamericaRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM Rio de Janeiro 101.3
+#EXTINF:-1 tvg-id="TransamericaRJ.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM Rio de Janeiro 101.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RJAAC.aac
-#EXTINF:-1 tvg-id="TransamericaCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM Curitiba 100.3
+#EXTINF:-1 tvg-id="TransamericaCuritiba.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM Curitiba 100.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC.aac
-#EXTINF:-1 tvg-id="TransamericaBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM Belo Horizonte 88.7
+#EXTINF:-1 tvg-id="TransamericaBH.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM Belo Horizonte 88.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
-#EXTINF:-1 tvg-id="TransamericaRecife.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Transamérica FM Recife 92.7
+#EXTINF:-1 tvg-id="TransamericaRecife.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Transamérica FM Recife 92.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RECAAC.aac
-#EXTINF:-1 tvg-id="AtlantidaJoinville.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Atlântida FM Joinville 104.3 (SC)
+#EXTINF:-1 tvg-id="AtlantidaJoinville.br" tvg-logo="http://graph.facebook.com/redeatlantida/picture?type=large" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Atlântida FM Joinville 104.3 (SC)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOIAAC.aac
-#EXTINF:-1 tvg-id="RadioCidadeRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rádio Cidade 102.9 FM (RJ)
+#EXTINF:-1 tvg-id="RadioCidadeRJ.br" tvg-logo="https://radiocidade.fm/favicon.ico" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Rádio Cidade 102.9 FM (RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
-#EXTINF:-1 tvg-id="RadioCidadeRJMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rádio Cidade 102.9 FM (MP3)
+#EXTINF:-1 tvg-id="RadioCidadeRJMP3.br" tvg-logo="https://radiocidade.fm/favicon.ico" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Rádio Cidade 102.9 FM (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADE.mp3
-#EXTINF:-1 tvg-id="98FMBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",98 FM Belo Horizonte 98.3 (MG)
+#EXTINF:-1 tvg-id="98FMBH.br" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/790/transamerica-belo-horizonte.15dd3e62.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",98 FM Belo Horizonte 98.3 (MG)
 https://9554.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="DumontFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Dumont FM 104.3 (SP)
+#EXTINF:-1 tvg-id="DumontFM.br" tvg-logo="https://ui-avatars.com/api/?name=Dumont&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Dumont FM 104.3 (SP)
 https://8402.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="91Rock.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",91 Rock Curitiba (PR)
+#EXTINF:-1 tvg-id="91Rock.br" tvg-logo="https://ui-avatars.com/api/?name=91+Rock+Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",91 Rock Curitiba (PR)
 https://servidor40-4.brlogic.com:8044/live
-#EXTINF:-1 tvg-id="98FMCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",98 FM Curitiba 98.9 (PR)
+#EXTINF:-1 tvg-id="98FMCuritiba.br" tvg-logo="https://ui-avatars.com/api/?name=Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",98 FM Curitiba 98.9 (PR)
 https://playerservices.streamtheworld.com/api/livestream-redirect/98FM_CWBAAC.aac
-#EXTINF:-1 tvg-id="RadioVanguarda.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Pop, Rock e Jovem",Rock e Jovem",Rádio Vanguarda 94.9 FM Sorocaba (SP)
+#EXTINF:-1 tvg-id="RadioVanguarda.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Vanguarda+Sorocaba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Pop, Rock e Jovem",Rock e Jovem",Rock e Jovem",Rock e Jovem",Rádio Vanguarda 94.9 FM Sorocaba (SP)
 https://8296.brasilstream.com.br/stream
 
 # === ADULTO E MPB ===
-#EXTINF:-1 tvg-id="AlphaFMGO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Alpha FM 102.1 Goiânia (GO)
+#EXTINF:-1 tvg-id="AlphaFMGO.br" tvg-logo="https://ui-avatars.com/api/?name=Alpha+Goi%C3%A2nia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Adulto e MPB",Alpha FM 102.1 Goiânia (GO)
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-id="Antena1SP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Antena 1 São Paulo 94.7 FM
+#EXTINF:-1 tvg-id="Antena1SP.br" tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Adulto e MPB",Antena 1 São Paulo 94.7 FM
 https://antenaone.crossradio.com.br/stream/1
-#EXTINF:-1 tvg-id="Antena1RJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Antena 1 Rio de Janeiro 103.7 FM
+#EXTINF:-1 tvg-id="Antena1RJ.br" tvg-logo="https://www.antena1rio.com.br/wp-content/uploads/2024/01/logo-antena-1.png" group-title="Adulto e MPB",Antena 1 Rio de Janeiro 103.7 FM
 http://a1rj.streams.com.br:7801/sm
-#EXTINF:-1 tvg-id="JBFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",JB FM 99.9 (RJ)
+#EXTINF:-1 tvg-id="JBFM.br" tvg-logo="https://jb.fm/static-images/logo-jb.png" group-title="Adulto e MPB",JB FM 99.9 (RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
-#EXTINF:-1 tvg-id="JBFMHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",JB FM 99.9 (HLS)
+#EXTINF:-1 tvg-id="JBFMHLS.br" tvg-logo="https://jb.fm/static-images/logo-jb.png" group-title="Adulto e MPB",JB FM 99.9 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.m3u8
-#EXTINF:-1 tvg-id="JBFMMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",JB FM 99.9 (MP3)
+#EXTINF:-1 tvg-id="JBFMMP3.br" tvg-logo="https://jb.fm/static-images/logo-jb.png" group-title="Adulto e MPB",JB FM 99.9 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFM.mp3
-#EXTINF:-1 tvg-id="NovaBrasilSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",NovaBrasil FM São Paulo 89.7
+#EXTINF:-1 tvg-id="NovaBrasilSP.br" tvg-logo="https://ui-avatars.com/api/?name=NovaBrasil+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Adulto e MPB",NovaBrasil FM São Paulo 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
-#EXTINF:-1 tvg-id="NovaBrasilSPMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",NovaBrasil FM São Paulo (MP3)
+#EXTINF:-1 tvg-id="NovaBrasilSPMP3.br" tvg-logo="https://ui-avatars.com/api/?name=NovaBrasil+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Adulto e MPB",NovaBrasil FM São Paulo (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SP.mp3
-#EXTINF:-1 tvg-id="NovaBrasilSalvador.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",NovaBrasil FM Salvador 104.7
+#EXTINF:-1 tvg-id="NovaBrasilSalvador.br" tvg-logo="https://novabrasilfm.com.br/app/uploads/2025/03/cropped-favicon-1-180x180.png" group-title="Adulto e MPB",NovaBrasil FM Salvador 104.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SSAAAC.aac
-#EXTINF:-1 tvg-id="NovaBrasilRecife.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",NovaBrasil FM Recife 94.3
+#EXTINF:-1 tvg-id="NovaBrasilRecife.br" tvg-logo="https://novabrasilfm.com.br/app/uploads/2025/03/cropped-favicon-1-180x180.png" group-title="Adulto e MPB",NovaBrasil FM Recife 94.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RECAAC.aac
 #EXTINF:-1 tvg-id="NovaBrasilFortaleza.br" tvg-logo="https://novabrasilfm.com.br/app/uploads/2025/03/cropped-favicon-1-180x180.png" group-title="Adulto e MPB",NovaBrasil FM Fortaleza 106.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
-#EXTINF:-1 tvg-id="NovaBrasilRibeirao.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",NovaBrasil FM Ribeirão Preto 91.3
+#EXTINF:-1 tvg-id="NovaBrasilRibeirao.br" tvg-logo="https://novabrasilfm.com.br/app/uploads/2025/03/cropped-favicon-1-180x180.png" group-title="Adulto e MPB",NovaBrasil FM Ribeirão Preto 91.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RAOAAC.aac
-#EXTINF:-1 tvg-id="GFMSalvador.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",GFM 90.1 Salvador (BA)
+#EXTINF:-1 tvg-id="GFMSalvador.br" tvg-logo="https://ui-avatars.com/api/?name=GFM+Salvador&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Adulto e MPB",GFM 90.1 Salvador (BA)
 https://ice.fabricahost.com.br/radiogfm
-#EXTINF:-1 tvg-id="SaudadeFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Saudade FM 99.7 Santos (SP)
+#EXTINF:-1 tvg-id="SaudadeFM.br" tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/164/iTunesConnect.png" group-title="Adulto e MPB",Saudade FM 99.7 Santos (SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
-#EXTINF:-1 tvg-id="SaudadeMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Saudade FM 99.7 Santos (MP3)
+#EXTINF:-1 tvg-id="SaudadeMP3.br" tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/164/iTunesConnect.png" group-title="Adulto e MPB",Saudade FM 99.7 Santos (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FM.mp3
-#EXTINF:-1 tvg-id="CDLFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",CDL FM 102.9 Belo Horizonte (MG)
+#EXTINF:-1 tvg-id="CDLFM.br" tvg-logo="https://ui-avatars.com/api/?name=CDL+Belo+Horizonte&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Adulto e MPB",CDL FM 102.9 Belo Horizonte (MG)
 https://8228.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="BossaJazzBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Bossa Jazz Brasil
+#EXTINF:-1 tvg-id="BossaJazzBrasil.br" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/880/bossa-nova-brazil.6b0145eb.jpg" group-title="Adulto e MPB",Bossa Jazz Brasil
 https://centova5.transmissaodigital.com:20104/live
-#EXTINF:-1 tvg-id="NovaFM93.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Adulto e MPB",Rádio Cidade Campinas 92.5 FM (SP)
+#EXTINF:-1 tvg-id="NovaFM93.br" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Adulto e MPB",Rádio Cidade Campinas 92.5 FM (SP)
 https://8368.brasilstream.com.br/stream
 
 # === POPULAR, SERTANEJO E PAGODE ===
-#EXTINF:-1 tvg-id="BandFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1
+#EXTINF:-1 tvg-id="BandFMSP.br" tvg-logo="https://ui-avatars.com/api/?name=Band+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.aac
-#EXTINF:-1 tvg-id="BandFMSPHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1 (HLS)
+#EXTINF:-1 tvg-id="BandFMSPHLS.br" tvg-logo="https://ui-avatars.com/api/?name=Band+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8
-#EXTINF:-1 tvg-id="BandFMSPMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1 (MP3)
+#EXTINF:-1 tvg-id="BandFMSPMP3.br" tvg-logo="https://ui-avatars.com/api/?name=Band+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Band FM São Paulo 96.1 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SP.mp3
-#EXTINF:-1 tvg-id="BandFMRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Band FM Rio de Janeiro
+#EXTINF:-1 tvg-id="BandFMRJ.br" tvg-logo="https://ui-avatars.com/api/?name=Band+Rio+de+Janeiro&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Band FM Rio de Janeiro
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_RJAAC.aac
-#EXTINF:-1 tvg-id="BandFMPoa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Band FM Porto Alegre 99.3
+#EXTINF:-1 tvg-id="BandFMPoa.br" tvg-logo="https://ui-avatars.com/api/?name=Band+Porto+Alegre&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Band FM Porto Alegre 99.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_POAAAC.aac
-#EXTINF:-1 tvg-id="NativaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3
+#EXTINF:-1 tvg-id="NativaFMSP.br" tvg-logo="https://www.band.com.br/favicon.ico" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.aac
-#EXTINF:-1 tvg-id="NativaFMSPHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3 (HLS)
+#EXTINF:-1 tvg-id="NativaFMSPHLS.br" tvg-logo="https://www.band.com.br/favicon.ico" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3 (HLS)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8
-#EXTINF:-1 tvg-id="NativaSPMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3 (MP3)
+#EXTINF:-1 tvg-id="NativaSPMP3.br" tvg-logo="https://www.band.com.br/favicon.ico" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Nativa FM São Paulo 95.3 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SP.mp3
-#EXTINF:-1 tvg-id="ClubeFMBSB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 105.5 Brasília (DF)
+#EXTINF:-1 tvg-id="ClubeFMBSB.br" tvg-logo="https://public-rf-upload.minhawebradio.net/23914/cover/3c5997fe2d907398b689858e9686ac0d.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 105.5 Brasília (DF)
 https://8157.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMGoiania.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 102.9 Goiânia (GO)
+#EXTINF:-1 tvg-id="ClubeFMGoiania.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Goi%C3%A2nia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 102.9 Goiânia (GO)
 https://8163.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMSJRP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 88.9 São José do Rio Preto (SP)
+#EXTINF:-1 tvg-id="ClubeFMSJRP.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+S%C3%A3o+Jos%C3%A9+do+Rio+Preto&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 88.9 São José do Rio Preto (SP)
 https://8165.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMCampinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.7 Campinas (SP)
+#EXTINF:-1 tvg-id="ClubeFMCampinas.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Campinas&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.7 Campinas (SP)
 https://8167.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMItapira.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 91.1 Itapira (SP)
+#EXTINF:-1 tvg-id="ClubeFMItapira.br" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/118/iTunesArtwork_fm-1.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 91.1 Itapira (SP)
 https://8169.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMPirassununga.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 90.1 Pirassununga (SP)
+#EXTINF:-1 tvg-id="ClubeFMPirassununga.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Pirassununga&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 90.1 Pirassununga (SP)
 https://8171.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMSaoCarlos.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 104.7 São Carlos (SP)
+#EXTINF:-1 tvg-id="ClubeFMSaoCarlos.br" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/118/iTunesArtwork_fm-1.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 104.7 São Carlos (SP)
 https://8173.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMBauru.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 92.3 Bauru (SP)
+#EXTINF:-1 tvg-id="ClubeFMBauru.br" tvg-logo="https://public-rf-upload.minhawebradio.net/23914/cover/3c5997fe2d907398b689858e9686ac0d.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 92.3 Bauru (SP)
 https://8175.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMMarilia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 97.5 Marília (SP)
+#EXTINF:-1 tvg-id="ClubeFMMarilia.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Mar%C3%ADlia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 97.5 Marília (SP)
 https://8177.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMPatosDeMinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.7 Patos de Minas (MG)
+#EXTINF:-1 tvg-id="ClubeFMPatosDeMinas.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Patos+de+Minas&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.7 Patos de Minas (MG)
 https://8179.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMTaiobeiras.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.9 Taiobeiras (MG)
+#EXTINF:-1 tvg-id="ClubeFMTaiobeiras.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Taiobeiras&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.9 Taiobeiras (MG)
 https://8181.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMBlumenau.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 89.1 Blumenau (SC)
+#EXTINF:-1 tvg-id="ClubeFMBlumenau.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Blumenau&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 89.1 Blumenau (SC)
 https://8185.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMPalmas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.5 Palmas (TO)
+#EXTINF:-1 tvg-id="ClubeFMPalmas.br" tvg-logo="https://public-rf-upload.minhawebradio.net/23914/cover/3c5997fe2d907398b689858e9686ac0d.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 99.5 Palmas (TO)
 https://8187.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMJiParana.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 91.5 Ji-Paraná (RO)
+#EXTINF:-1 tvg-id="ClubeFMJiParana.br" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/118/iTunesArtwork_fm-1.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 91.5 Ji-Paraná (RO)
 https://8189.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeFMColorado.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 90.3 Colorado do Oeste (RO)
+#EXTINF:-1 tvg-id="ClubeFMColorado.br" tvg-logo="https://ui-avatars.com/api/?name=Clube+Colorado+do+Oeste&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Clube FM 90.3 Colorado do Oeste (RO)
 https://8191.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="FMODiaManaus.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",FM O Dia 93.1 Manaus (AM)
+#EXTINF:-1 tvg-id="FMODiaManaus.br" tvg-logo="https://ui-avatars.com/api/?name=O+Dia+Manaus&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",FM O Dia 93.1 Manaus (AM)
 https://8326.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="BHFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",BH FM 102.1 Belo Horizonte (MG)
+#EXTINF:-1 tvg-id="BHFM.br" tvg-logo="https://i.postimg.cc/ncT9hqH6/04008003142.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",BH FM 102.1 Belo Horizonte (MG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
-#EXTINF:-1 tvg-id="BHFMMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",BH FM 102.1 Belo Horizonte (MP3)
+#EXTINF:-1 tvg-id="BHFMMP3.br" tvg-logo="https://i.postimg.cc/ncT9hqH6/04008003142.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",BH FM 102.1 Belo Horizonte (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BHFM.mp3
-#EXTINF:-1 tvg-id="LiberdadeBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Rádio Liberdade 92.9 FM (MG)
+#EXTINF:-1 tvg-id="LiberdadeBH.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Liberdade&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Rádio Liberdade 92.9 FM (MG)
 https://8332.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="TranscontinentalSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Transcontinental FM 104.7 (SP)
+#EXTINF:-1 tvg-id="TranscontinentalSP.br" tvg-logo="https://ui-avatars.com/api/?name=Transcontinental&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Popular, Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Sertanejo e Pagode",Transcontinental FM 104.7 (SP)
 https://8366.brasilstream.com.br/stream
 
 # === NORDESTE (RN, PB, CE E REGIÃO) ===
-#EXTINF:-1 tvg-id="TropicalFMNatal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Tropical FM 103.9 Natal (RN)
+#EXTINF:-1 tvg-id="TropicalFMNatal.br" tvg-logo="https://img.radios.com.br/radio/lg/radio15003_1588852945.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Tropical FM 103.9 Natal (RN)
 https://8185.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="FMResistenciaMossoro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",FM Resistência 93.7 Mossoró (RN)
+#EXTINF:-1 tvg-id="FMResistenciaMossoro.br" tvg-logo="https://ui-avatars.com/api/?name=Resist%C3%AAncia+Mossor%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",FM Resistência 93.7 Mossoró (RN)
 https://8410.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="95FMMossoro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",95 FM Mossoró 95.7 (RN)
+#EXTINF:-1 tvg-id="95FMMossoro.br" tvg-logo="https://ui-avatars.com/api/?name=Mossor%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",95 FM Mossoró 95.7 (RN)
 https://8412.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="98FMMossoro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",98 FM Mossoró 98.7 (RN)
+#EXTINF:-1 tvg-id="98FMMossoro.br" tvg-logo="https://ui-avatars.com/api/?name=Mossor%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",98 FM Mossoró 98.7 (RN)
 https://8414.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="LiderancaMossoro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Liderança FM 91.5 Mossoró (RN)
+#EXTINF:-1 tvg-id="LiderancaMossoro.br" tvg-logo="https://ui-avatars.com/api/?name=Lideran%C3%A7a+Mossor%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Liderança FM 91.5 Mossoró (RN)
 https://8422.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="PrincesaAssu.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Princesa do Vale 90.9 FM Assú (RN)
+#EXTINF:-1 tvg-id="PrincesaAssu.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Princesa+do+Vale+Ass%C3%BA&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Princesa do Vale 90.9 FM Assú (RN)
 https://8416.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="Cidade94Natal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Cidade 94.3 FM Natal (RN)
+#EXTINF:-1 tvg-id="Cidade94Natal.br" tvg-logo="https://img.radios.com.br/radio/lg/radio11453_1528207582.jpg" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Cidade 94.3 FM Natal (RN)
 https://8187.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="104FMNatal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",104 FM Natal 104.9 (RN)
+#EXTINF:-1 tvg-id="104FMNatal.br" tvg-logo="https://ui-avatars.com/api/?name=Natal&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",104 FM Natal 104.9 (RN)
 https://8189.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="NossaRadioNatal.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Nossa Rádio 91.9 FM Natal (RN)
+#EXTINF:-1 tvg-id="NossaRadioNatal.br" tvg-logo="https://nossa.fm/wp-content/uploads/2023/12/1-LOGO-NOSSA-1080-96x96.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Nossa Rádio 91.9 FM Natal (RN)
 https://8424.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioRuralCaico.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Rural de Caicó 102.7 FM (RN)
+#EXTINF:-1 tvg-id="RadioRuralCaico.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Rural+de+Caic%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Rural de Caicó 102.7 FM (RN)
 https://8418.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="SeridoCaico.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Seridó 100.7 FM Caicó (RN)
+#EXTINF:-1 tvg-id="SeridoCaico.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Serid%C3%B3+Caic%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Seridó 100.7 FM Caicó (RN)
 https://8420.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioPotengi.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Potengi 93.3 FM (RN)
+#EXTINF:-1 tvg-id="RadioPotengi.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Potengi&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Potengi 93.3 FM (RN)
 https://8426.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="95FMCurraisNovos.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",95 FM Currais Novos (RN)
+#EXTINF:-1 tvg-id="95FMCurraisNovos.br" tvg-logo="https://ui-avatars.com/api/?name=Currais+Novos&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",95 FM Currais Novos (RN)
 https://8428.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CulturaOesteRN.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Cultura do Oeste 102.9 FM (RN)
+#EXTINF:-1 tvg-id="CulturaOesteRN.br" tvg-logo="https://manager.suaradionanet.net/storage/radios/culturaam/site_basic/64f0b1dde9a5c3.82638254.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Cultura do Oeste 102.9 FM (RN)
 https://8434.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="JangadeiroFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Jangadeiro FM 88.9 Fortaleza (CE)
+#EXTINF:-1 tvg-id="JangadeiroFortaleza.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13520_1692020159.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Jangadeiro FM 88.9 Fortaleza (CE)
 https://8134.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="BeachParkFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Beach Park FM 102.7 Fortaleza (CE)
+#EXTINF:-1 tvg-id="BeachParkFM.br" tvg-logo="https://ui-avatars.com/api/?name=Beach+Park+Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Beach Park FM 102.7 Fortaleza (CE)
 https://8136.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="AtlanticoSulFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Atlântico Sul FM 105.7 Fortaleza (CE)
+#EXTINF:-1 tvg-id="AtlanticoSulFortaleza.br" tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/05/atlantico-sul.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Atlântico Sul FM 105.7 Fortaleza (CE)
 https://8191.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="100FMFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",100 FM Fortaleza 100.9 (CE)
+#EXTINF:-1 tvg-id="100FMFortaleza.br" tvg-logo="https://ui-avatars.com/api/?name=Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",100 FM Fortaleza 100.9 (CE)
 https://8195.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="PlusFMCeara.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rede Plus FM Ceará (CE)
+#EXTINF:-1 tvg-id="PlusFMCeara.br" tvg-logo="https://ui-avatars.com/api/?name=Rede+Plus+Cear%C3%A1&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rede Plus FM Ceará (CE)
 https://8197.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ExpressoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Expresso FM 104.3 Fortaleza (CE)
+#EXTINF:-1 tvg-id="ExpressoFortaleza.br" tvg-logo="https://ui-avatars.com/api/?name=Expresso+Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Expresso FM 104.3 Fortaleza (CE)
 https://8199.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="AssuncaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Assunção 620 AM Fortaleza (CE)
+#EXTINF:-1 tvg-id="AssuncaoFortaleza.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Assun%C3%A7%C3%A3o+Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Assunção 620 AM Fortaleza (CE)
 https://8201.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ShalomFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Shalom 690 AM Fortaleza (CE)
+#EXTINF:-1 tvg-id="ShalomFortaleza.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Shalom+Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Shalom 690 AM Fortaleza (CE)
 https://8205.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="FMAssembleiaCE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",FM Assembleia 96.7 Fortaleza (CE)
+#EXTINF:-1 tvg-id="FMAssembleiaCE.br" tvg-logo="https://ui-avatars.com/api/?name=Assembleia+Fortaleza&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",FM Assembleia 96.7 Fortaleza (CE)
 https://8138.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="PadreCiceroJuazeiro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Padre Cícero 104.9 FM Juazeiro (CE)
+#EXTINF:-1 tvg-id="PadreCiceroJuazeiro.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Padre+C%C3%ADcero+Juazeiro&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Padre Cícero 104.9 FM Juazeiro (CE)
 https://8193.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ValeFMJuazeiro.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Vale FM 99.9 Juazeiro do Norte (CE)
+#EXTINF:-1 tvg-id="ValeFMJuazeiro.br" tvg-logo="https://ui-avatars.com/api/?name=Vale+Juazeiro+do+Norte&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Vale FM 99.9 Juazeiro do Norte (CE)
 https://8209.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ArapuanJP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Arapuan FM 95.3 João Pessoa (PB)
+#EXTINF:-1 tvg-id="ArapuanJP.br" tvg-logo="https://ui-avatars.com/api/?name=Arapuan+Jo%C3%A3o+Pessoa&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Arapuan FM 95.3 João Pessoa (PB)
 https://8195.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="TabajaraPB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Tabajara 105.5 FM João Pessoa (PB)
+#EXTINF:-1 tvg-id="TabajaraPB.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Tabajara+Jo%C3%A3o+Pessoa&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Tabajara 105.5 FM João Pessoa (PB)
 https://8197.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CorreioCampina.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Correio FM 98.1 Campina Grande (PB)
+#EXTINF:-1 tvg-id="CorreioCampina.br" tvg-logo="https://ui-avatars.com/api/?name=Correio+Campina+Grande&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Correio FM 98.1 Campina Grande (PB)
 https://8199.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CaturiteCampina.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Caturité 104.1 FM Campina Grande (PB)
+#EXTINF:-1 tvg-id="CaturiteCampina.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Caturit%C3%A9+Campina+Grande&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Caturité 104.1 FM Campina Grande (PB)
 https://8201.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ItapoanSalvador.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Itapoan FM 97.5 Salvador (BA)
+#EXTINF:-1 tvg-id="ItapoanSalvador.br" tvg-logo="https://ui-avatars.com/api/?name=Itapoan+Salvador&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Itapoan FM 97.5 Salvador (BA)
 https://cast4.audiostream.com.br:2655/mp3
-#EXTINF:-1 tvg-id="BahiaFMSul.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Bahia FM Sul 102.1 Itabuna (BA)
+#EXTINF:-1 tvg-id="BahiaFMSul.br" tvg-logo="https://ui-avatars.com/api/?name=Bahia+Sul+Itabuna&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Bahia FM Sul 102.1 Itabuna (BA)
 https://ice.fabricahost.com.br/bahiafmsul
-#EXTINF:-1 tvg-id="ATardeFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",A Tarde FM 103.9 Salvador (BA)
+#EXTINF:-1 tvg-id="ATardeFM.br" tvg-logo="https://ui-avatars.com/api/?name=A+Tarde+Salvador&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",A Tarde FM 103.9 Salvador (BA)
 https://8128.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="JornalAracaju.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Jornal 91.3 FM Aracaju (SE)
+#EXTINF:-1 tvg-id="JornalAracaju.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Jornal+Aracaju&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Jornal 91.3 FM Aracaju (SE)
 https://8206.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="MeioNorteTeresina.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Meio Norte FM 99.9 Teresina (PI)
+#EXTINF:-1 tvg-id="MeioNorteTeresina.br" tvg-logo="https://ui-avatars.com/api/?name=Meio+Norte+Teresina&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Meio Norte FM 99.9 Teresina (PI)
 https://8206.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeTeresina.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Rádio Clube 99.1 FM Teresina (PI)
+#EXTINF:-1 tvg-id="ClubeTeresina.br" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/118/iTunesArtwork_fm-1.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Rádio Clube 99.1 FM Teresina (PI)
 https://8212.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="MaisFMSaoLuis.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",Mais FM 99.9 São Luís (MA)
+#EXTINF:-1 tvg-id="MaisFMSaoLuis.br" tvg-logo="https://ui-avatars.com/api/?name=Mais+S%C3%A3o+Lu%C3%ADs&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Nordeste (RN, PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",PB, CE e Região)",Mais FM 99.9 São Luís (MA)
 https://8214.brasilstream.com.br/stream
 
 # === GOSPEL E RELIGIOSAS ===
-#EXTINF:-1 tvg-id="93FMRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",93 FM Gospel 93.3 (RJ)
+#EXTINF:-1 tvg-id="93FMRJ.br" tvg-logo="https://gospelfm89.com.br/gospelfm.png" group-title="Gospel e Religiosas",93 FM Gospel 93.3 (RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
-#EXTINF:-1 tvg-id="93FMRJMP3.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",93 FM Gospel 93.3 (MP3)
+#EXTINF:-1 tvg-id="93FMRJMP3.br" tvg-logo="https://gospelfm89.com.br/gospelfm.png" group-title="Gospel e Religiosas",93 FM Gospel 93.3 (MP3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM93.mp3
-#EXTINF:-1 tvg-id="FelizFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Feliz FM 92.5 São Paulo (SP)
+#EXTINF:-1 tvg-id="FelizFMSP.br" tvg-logo="https://ui-avatars.com/api/?name=Feliz+S%C3%A3o+Paulo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Feliz FM 92.5 São Paulo (SP)
 https://8282.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CancaoNovaAM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Canção Nova 1020 AM (SP)
+#EXTINF:-1 tvg-id="CancaoNovaAM.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Can%C3%A7%C3%A3o+Nova+1020&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Rádio Canção Nova 1020 AM (SP)
 https://8122.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Aparecida 104.3 FM (SP)
+#EXTINF:-1 tvg-id="RadioAparecida.br" tvg-logo="https://www.a12.com/source/icon/3/favicon.ico" group-title="Gospel e Religiosas",Rádio Aparecida 104.3 FM (SP)
 https://8124.brasilstream.com.br/stream
 #EXTINF:-1 tvg-id="NovoTempoFM.br" tvg-logo="https://ntplay.com/home/img/radiont.jpg" group-title="Gospel e Religiosas",Rádio Novo Tempo 95.7 FM
 https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioCatedralRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Catedral 106.7 FM (RJ)
+#EXTINF:-1 tvg-id="RadioCatedralRJ.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Catedral&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Rádio Catedral 106.7 FM (RJ)
 https://8292.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioAmericaBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio América 750 AM (MG)
+#EXTINF:-1 tvg-id="RadioAmericaBH.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Am%C3%A9rica&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Rádio América 750 AM (MG)
 https://8216.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="SaraBrasilFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Sara Brasil FM 99.7 Brasília (DF)
+#EXTINF:-1 tvg-id="SaraBrasilFM.br" tvg-logo="https://ui-avatars.com/api/?name=Sara+Brasil+Bras%C3%ADlia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Sara Brasil FM 99.7 Brasília (DF)
 https://8294.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioMaravilha.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Maravilha 89.1 FM (MG)
+#EXTINF:-1 tvg-id="RadioMaravilha.br" tvg-logo="https://img.radios.com.br/radio/lg/radio269259_1752093044.png" group-title="Gospel e Religiosas",Rádio Maravilha 89.1 FM (MG)
 https://8218.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTransmundial.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Trans Mundial (SP)
+#EXTINF:-1 tvg-id="RadioTransmundial.br" tvg-logo="https://img.radios.com.br/radio/lg/radio18759_1456511123.jpg" group-title="Gospel e Religiosas",Rádio Trans Mundial (SP)
 https://8298.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioBoaNova.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Rádio Boa Nova 1450 AM (SP)
+#EXTINF:-1 tvg-id="RadioBoaNova.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Boa+Nova+1450&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Rádio Boa Nova 1450 AM (SP)
 https://8300.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="BoasNovasBelem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Gospel e Religiosas",Boas Novas 91.9 FM Belém (PA)
+#EXTINF:-1 tvg-id="BoasNovasBelem.br" tvg-logo="https://ui-avatars.com/api/?name=Boas+Novas+Bel%C3%A9m&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Gospel e Religiosas",Boas Novas 91.9 FM Belém (PA)
 https://8332.brasilstream.com.br/stream
 
 # === EDUCATIVAS E PÚBLICAS ===
-#EXTINF:-1 tvg-id="USPFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Educativas e Públicas",Rádio USP 93.7 FM (SP)
+#EXTINF:-1 tvg-id="USPFM.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+USP&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Educativas e Públicas",Rádio USP 93.7 FM (SP)
 https://flow.emm.usp.br:8007/radiousp-128.mp3
 
 # === WEB E TEMÁTICAS ===
-#EXTINF:-1 tvg-id="TransamericaHits.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Transamérica Hits
+#EXTINF:-1 tvg-id="TransamericaHits.br" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Web e Temáticas",Transamérica Hits
 http://servidor39.brlogic.com:8146/live
-#EXTINF:-1 tvg-id="RadioMetropolitanaSertanejo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Metropolitana Sertanejo
+#EXTINF:-1 tvg-id="RadioMetropolitanaSertanejo.br" tvg-logo="https://ui-avatars.com/api/?name=Metropolitana+Sertanejo&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Web e Temáticas",Metropolitana Sertanejo
 https://ice.fabricahost.com.br/metrospsertanejo
-#EXTINF:-1 tvg-id="RadioDumontHits.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Dumont FM Hits
+#EXTINF:-1 tvg-id="RadioDumontHits.br" tvg-logo="https://ui-avatars.com/api/?name=Dumont+Hits&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Web e Temáticas",Dumont FM Hits
 https://8404.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="StudioSouto80.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Studio Souto Anos 80
+#EXTINF:-1 tvg-id="StudioSouto80.br" tvg-logo="https://www.soradios.com/images/stations/studiosoutotechno.webp" group-title="Web e Temáticas",Studio Souto Anos 80
 https://stm2.srvif.com:7014/stream
-#EXTINF:-1 tvg-id="StudioSoutoRock.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Studio Souto Classic Rock
+#EXTINF:-1 tvg-id="StudioSoutoRock.br" tvg-logo="https://www.soradios.com/images/stations/studiosoutotechno.webp" group-title="Web e Temáticas",Studio Souto Classic Rock
 https://stm2.srvif.com:7018/stream
-#EXTINF:-1 tvg-id="RadioBluesBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Rádio Blues Brasil
+#EXTINF:-1 tvg-id="RadioBluesBrasil.br" tvg-logo="https://manager.suaradionanet.net/storage/radios/reggaebrasil/site_basic/63f193d9235468.08684969.png" group-title="Web e Temáticas",Rádio Blues Brasil
 https://stm1.srvif.com:7034/stream
 #EXTINF:-1 tvg-id="RadioReggaeBrasil.br" tvg-logo="https://manager.suaradionanet.net/storage/radios/reggaebrasil/site_basic/63f193d9235468.08684969.png" group-title="Web e Temáticas",Rádio Reggae Brasil
 https://casthttps.suaradionanet.net/13805/stream
-#EXTINF:-1 tvg-id="RadioSambaRaiz.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Web e Temáticas",Rádio Samba Raiz
+#EXTINF:-1 tvg-id="RadioSambaRaiz.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Samba+Raiz&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Web e Temáticas",Rádio Samba Raiz
 https://stm1.srvif.com:7038/stream
 
 # === REGIONAIS - SUDESTE ===
-#EXTINF:-1 tvg-id="RadioMoradaSol.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Morada FM 98.1 Araraquara (SP)
+#EXTINF:-1 tvg-id="RadioMoradaSol.br" tvg-logo="https://radiomorada.com.br/wp-content/uploads/2024/12/cropped-M-BRANCA-32x32.png" group-title="Regionais - Sudeste",Morada FM 98.1 Araraquara (SP)
 https://8370.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioLaserCampinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Laser FM 93.3 Campinas (SP)
+#EXTINF:-1 tvg-id="RadioLaserCampinas.br" tvg-logo="https://ui-avatars.com/api/?name=Laser+Campinas&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Laser FM 93.3 Campinas (SP)
 https://8372.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioOndaLivre.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Onda Livre 105.3 FM Piracicaba (SP)
+#EXTINF:-1 tvg-id="RadioOndaLivre.br" tvg-logo="https://ui-avatars.com/api/?name=Onda+Livre+Piracicaba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Onda Livre 105.3 FM Piracicaba (SP)
 https://8374.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioEducadoraPiracicaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Educadora 1060 AM Piracicaba (SP)
+#EXTINF:-1 tvg-id="RadioEducadoraPiracicaba.br" tvg-logo="https://ui-avatars.com/api/?name=Educadora+1060+Piracicaba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Educadora 1060 AM Piracicaba (SP)
 https://8376.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="DifusoraJundiai.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Rádio Difusora 810 AM Jundiaí (SP)
+#EXTINF:-1 tvg-id="DifusoraJundiai.br" tvg-logo="https://ps-str.srvsite.com/arquivos/2664/favicon.ico" group-title="Regionais - Sudeste",Rádio Difusora 810 AM Jundiaí (SP)
 https://8394.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CidadeJundiai.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Cidade FM 98.7 Jundiaí (SP)
+#EXTINF:-1 tvg-id="CidadeJundiai.br" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Regionais - Sudeste",Cidade FM 98.7 Jundiaí (SP)
 https://8396.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CruzeiroSorocaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Cruzeiro FM 92.3 Sorocaba (SP)
+#EXTINF:-1 tvg-id="CruzeiroSorocaba.br" tvg-logo="https://www.cruzeirofm.com.br/wp-content/uploads/2021/06/cruzeirofm.png" group-title="Regionais - Sudeste",Cruzeiro FM 92.3 Sorocaba (SP)
 https://8400.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CaciqueSorocaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Cacique FM 96.5 Sorocaba (SP)
+#EXTINF:-1 tvg-id="CaciqueSorocaba.br" tvg-logo="https://ui-avatars.com/api/?name=Cacique+Sorocaba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Cacique FM 96.5 Sorocaba (SP)
 https://8406.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="98FMAracatuba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",98 FM Araçatuba 98.3 (SP)
+#EXTINF:-1 tvg-id="98FMAracatuba.br" tvg-logo="https://ui-avatars.com/api/?name=Ara%C3%A7atuba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",98 FM Araçatuba 98.3 (SP)
 https://8408.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ClubeAracatuba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Rádio Clube 96.3 FM Araçatuba (SP)
+#EXTINF:-1 tvg-id="ClubeAracatuba.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Clube+Ara%C3%A7atuba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Rádio Clube 96.3 FM Araçatuba (SP)
 https://8410.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="DiarioMarilia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Diário FM 99.7 Marília (SP)
+#EXTINF:-1 tvg-id="DiarioMarilia.br" tvg-logo="https://ui-avatars.com/api/?name=Di%C3%A1rio+Mar%C3%ADlia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Diário FM 99.7 Marília (SP)
 https://8412.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ItaipuMarilia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Itaipu FM 99.7 Marília (SP)
+#EXTINF:-1 tvg-id="ItaipuMarilia.br" tvg-logo="https://ui-avatars.com/api/?name=Itaipu+Mar%C3%ADlia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Itaipu FM 99.7 Marília (SP)
 https://8414.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CostaAzulAngra.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Costa Azul FM 93.1 Angra (RJ)
+#EXTINF:-1 tvg-id="CostaAzulAngra.br" tvg-logo="https://ui-avatars.com/api/?name=Costa+Azul+Angra&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Costa Azul FM 93.1 Angra (RJ)
 https://8302.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="HitsMacae.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Hits FM 99.7 Macaé (RJ)
+#EXTINF:-1 tvg-id="HitsMacae.br" tvg-logo="https://ui-avatars.com/api/?name=Hits+Maca%C3%A9&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Hits FM 99.7 Macaé (RJ)
 https://8306.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="OndaFMCaboFrio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Onda FM 97.7 Cabo Frio (RJ)
+#EXTINF:-1 tvg-id="OndaFMCaboFrio.br" tvg-logo="https://ui-avatars.com/api/?name=Onda+Cabo+Frio&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Onda FM 97.7 Cabo Frio (RJ)
 https://8308.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="ParanaibaUberlandia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Paranaíba FM 100.7 Uberlândia (MG)
+#EXTINF:-1 tvg-id="ParanaibaUberlandia.br" tvg-logo="https://ui-avatars.com/api/?name=Parana%C3%ADba+Uberl%C3%A2ndia&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Paranaíba FM 100.7 Uberlândia (MG)
 https://8222.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="EducadoraUberlandia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Educadora 90.9 FM Uberlândia (MG)
+#EXTINF:-1 tvg-id="EducadoraUberlandia.br" tvg-logo="https://www.educadoraonline.com.br/site/wp-content/uploads/2023/06/cropped-ico-2-180x180.jpg" group-title="Regionais - Sudeste",Educadora 90.9 FM Uberlândia (MG)
 https://8224.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="VitoriosaUberlandia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sudeste",Rádio Vitoriosa 105.5 FM (MG)
+#EXTINF:-1 tvg-id="VitoriosaUberlandia.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Vitoriosa&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sudeste",Rádio Vitoriosa 105.5 FM (MG)
 https://8226.brasilstream.com.br/stream
 
 # === REGIONAIS - SUL ===
-#EXTINF:-1 tvg-id="CaiobaCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Caiobá FM 102.3 Curitiba (PR)
+#EXTINF:-1 tvg-id="CaiobaCuritiba.br" tvg-logo="https://ui-avatars.com/api/?name=Caiob%C3%A1+Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Caiobá FM 102.3 Curitiba (PR)
 https://cast4.audiostream.com.br:2650/mp3
-#EXTINF:-1 tvg-id="93FMCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",93 FM Curitiba (PR)
+#EXTINF:-1 tvg-id="93FMCuritiba.br" tvg-logo="https://ui-avatars.com/api/?name=Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",93 FM Curitiba (PR)
 https://cast4.audiostream.com.br:2651/mp3
-#EXTINF:-1 tvg-id="RadioMaisCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio Mais 1120 AM Curitiba (PR)
+#EXTINF:-1 tvg-id="RadioMaisCuritiba.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Mais+1120+Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio Mais 1120 AM Curitiba (PR)
 https://8108.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="TarobaCascavel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Tarobá FM 101.7 Cascavel (PR)
+#EXTINF:-1 tvg-id="TarobaCascavel.br" tvg-logo="https://ui-avatars.com/api/?name=Tarob%C3%A1+Cascavel&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Tarobá FM 101.7 Cascavel (PR)
 https://8110.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="92FMFoz.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",92 FM Foz do Iguaçu (PR)
+#EXTINF:-1 tvg-id="92FMFoz.br" tvg-logo="https://ui-avatars.com/api/?name=Foz+do+Igua%C3%A7u&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",92 FM Foz do Iguaçu (PR)
 https://8112.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="CulturaFoz.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio Cultura 820 AM Foz do Iguaçu (PR)
+#EXTINF:-1 tvg-id="CulturaFoz.br" tvg-logo="https://manager.suaradionanet.net/storage/radios/culturaam/site_basic/64f0b1dde9a5c3.82638254.png" group-title="Regionais - Sul",Rádio Cultura 820 AM Foz do Iguaçu (PR)
 https://8114.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="InconfidenciaUmuarama.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Inconfidência FM 96.3 Umuarama (PR)
+#EXTINF:-1 tvg-id="InconfidenciaUmuarama.br" tvg-logo="https://img.radios.com.br/radio/lg/radio139_1488725850.jpg" group-title="Regionais - Sul",Inconfidência FM 96.3 Umuarama (PR)
 https://8114.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTGuarapuava.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio T FM 100.9 Guarapuava (PR)
+#EXTINF:-1 tvg-id="RadioTGuarapuava.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+T+Guarapuava&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio T FM 100.9 Guarapuava (PR)
 https://8118.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTPontaGrossa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio T FM 99.9 Ponta Grossa (PR)
+#EXTINF:-1 tvg-id="RadioTPontaGrossa.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+T+Ponta+Grossa&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio T FM 99.9 Ponta Grossa (PR)
 https://8120.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio T FM 104.9 Curitiba (PR)
+#EXTINF:-1 tvg-id="RadioTCuritiba.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+T+Curitiba&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio T FM 104.9 Curitiba (PR)
 https://8122.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTLondrina.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio T FM 97.7 Londrina (PR)
+#EXTINF:-1 tvg-id="RadioTLondrina.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+T+Londrina&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio T FM 97.7 Londrina (PR)
 https://8124.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioTMaringa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio T FM 93.9 Maringá (PR)
+#EXTINF:-1 tvg-id="RadioTMaringa.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+T+Maring%C3%A1&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio T FM 93.9 Maringá (PR)
 https://8126.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="NereuRamosBlumenau.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio Nereu Ramos 760 AM Blumenau (SC)
+#EXTINF:-1 tvg-id="NereuRamosBlumenau.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Nereu+Ramos+Blumenau&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio Nereu Ramos 760 AM Blumenau (SC)
 https://8118.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="MeninaBalneario.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Menina FM 100.5 Balneário Camboriú (SC)
+#EXTINF:-1 tvg-id="MeninaBalneario.br" tvg-logo="https://ui-avatars.com/api/?name=Menina+Balne%C3%A1rio+Cambori%C3%BA&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Menina FM 100.5 Balneário Camboriú (SC)
 https://8120.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="89FMJoinville.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",89 FM Joinville (SC)
+#EXTINF:-1 tvg-id="89FMJoinville.br" tvg-logo="https://ui-avatars.com/api/?name=Joinville&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",89 FM Joinville (SC)
 https://8126.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="OesteCapitalChapeco.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Oeste Capital 93.3 FM Chapecó (SC)
+#EXTINF:-1 tvg-id="OesteCapitalChapeco.br" tvg-logo="https://ui-avatars.com/api/?name=Oeste+Capital+Chapec%C3%B3&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Oeste Capital 93.3 FM Chapecó (SC)
 https://8130.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="SomMaiorCriciuma.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Som Maior FM 100.7 Criciúma (SC)
+#EXTINF:-1 tvg-id="SomMaiorCriciuma.br" tvg-logo="https://ui-avatars.com/api/?name=Som+Maior+Crici%C3%BAma&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Som Maior FM 100.7 Criciúma (SC)
 https://8132.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="UniaoNovoHamburgo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio União 105.3 FM (RS)
+#EXTINF:-1 tvg-id="UniaoNovoHamburgo.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Uni%C3%A3o&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio União 105.3 FM (RS)
 https://8146.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="AlegriaPOA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Sul",Rádio Alegria 92.9 FM (RS)
+#EXTINF:-1 tvg-id="AlegriaPOA.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Alegria&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Sul",Rádio Alegria 92.9 FM (RS)
 https://8140.brasilstream.com.br/stream
 
 # === REGIONAIS - CENTRO-OESTE E NORTE ===
-#EXTINF:-1 tvg-id="GazetaCuiaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Gazeta FM 99.9 Cuiabá (MT)
+#EXTINF:-1 tvg-id="GazetaCuiaba.br" tvg-logo="https://radiogazetaes.com.br/wp-content/uploads/2023/04/230x140-150x140.png" group-title="Regionais - Centro-Oeste e Norte",Gazeta FM 99.9 Cuiabá (MT)
 https://8260.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="VilaRealCuiaba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Vila Real FM 98.3 Cuiabá (MT)
+#EXTINF:-1 tvg-id="VilaRealCuiaba.br" tvg-logo="https://ui-avatars.com/api/?name=Vila+Real+Cuiab%C3%A1&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",Vila Real FM 98.3 Cuiabá (MT)
 https://8262.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RaulandBelem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Rauland FM 95.1 Belém (PA)
+#EXTINF:-1 tvg-id="RaulandBelem.br" tvg-logo="https://ui-avatars.com/api/?name=Rauland+Bel%C3%A9m&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",Rauland FM 95.1 Belém (PA)
 https://stm1.srvif.com:6672/stream
-#EXTINF:-1 tvg-id="LiberalBelem.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Rádio Liberal FM 97.5 Belém (PA)
+#EXTINF:-1 tvg-id="LiberalBelem.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Liberal+Bel%C3%A9m&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",Rádio Liberal FM 97.5 Belém (PA)
 https://8212.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="DifusoraManaus.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Difusora FM 96.9 Manaus (AM)
+#EXTINF:-1 tvg-id="DifusoraManaus.br" tvg-logo="https://ps-str.srvsite.com/arquivos/2664/favicon.ico" group-title="Regionais - Centro-Oeste e Norte",Difusora FM 96.9 Manaus (AM)
 https://8324.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="DiarioMacapa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Diário FM 90.9 Macapá (AP)
+#EXTINF:-1 tvg-id="DiarioMacapa.br" tvg-logo="https://ui-avatars.com/api/?name=Di%C3%A1rio+Macap%C3%A1&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",Diário FM 90.9 Macapá (AP)
 https://8330.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="JovemPalmas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",Jovem FM 104.7 Palmas (TO)
+#EXTINF:-1 tvg-id="JovemPalmas.br" tvg-logo="https://ui-avatars.com/api/?name=Jovem+Palmas&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",Jovem FM 104.7 Palmas (TO)
 https://8258.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="96FMPalmas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Regionais - Centro-Oeste e Norte",96 FM Palmas 96.1 (TO)
+#EXTINF:-1 tvg-id="96FMPalmas.br" tvg-logo="https://ui-avatars.com/api/?name=Palmas&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Regionais - Centro-Oeste e Norte",96 FM Palmas 96.1 (TO)
 https://8268.brasilstream.com.br/stream
 
 # === EXPANSÃO BRASIL ===
-#EXTINF:-1 tvg-id="RadioItatiaiaSulMinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Itatiaia Sul de Minas 100.9 (MG)
+#EXTINF:-1 tvg-id="RadioItatiaiaSulMinas.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg" group-title="Expansão Brasil",Itatiaia Sul de Minas 100.9 (MG)
 https://8222.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioGuaraniBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Rádio Guarani Web BH (MG)
+#EXTINF:-1 tvg-id="RadioGuaraniBH.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Guarani+Web+BH&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Expansão Brasil",Rádio Guarani Web BH (MG)
 https://8220.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioExtraBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Rádio Extra 103.9 FM BH (MG)
+#EXTINF:-1 tvg-id="RadioExtraBH.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Extra+BH&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Expansão Brasil",Rádio Extra 103.9 FM BH (MG)
 https://8222.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioClubeLages.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Rádio Clube 98.3 FM Lages (SC)
+#EXTINF:-1 tvg-id="RadioClubeLages.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Clube+Lages&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Expansão Brasil",Rádio Clube 98.3 FM Lages (SC)
 https://8134.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioPrincesaLages.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Princesa FM 95.7 Lages (SC)
+#EXTINF:-1 tvg-id="RadioPrincesaLages.br" tvg-logo="https://ui-avatars.com/api/?name=Princesa+Lages&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Expansão Brasil",Princesa FM 95.7 Lages (SC)
 https://8136.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioCulturaJoinville.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Rádio Cultura 1250 AM Joinville (SC)
+#EXTINF:-1 tvg-id="RadioCulturaJoinville.br" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/67665.v7.png" group-title="Expansão Brasil",Rádio Cultura 1250 AM Joinville (SC)
 https://8138.brasilstream.com.br/stream
-#EXTINF:-1 tvg-id="RadioColonJoinville.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_icon.svg/512px-Radio_icon.svg.png" group-title="Expansão Brasil",Rádio Colon 90.3 FM Joinville (SC)
+#EXTINF:-1 tvg-id="RadioColonJoinville.br" tvg-logo="https://ui-avatars.com/api/?name=R%C3%A1dio+Colon+Joinville&size=256&background=1e293b&color=ffffff&bold=true&format=png&length=3" group-title="Expansão Brasil",Rádio Colon 90.3 FM Joinville (SC)
 https://8140.brasilstream.com.br/stream
