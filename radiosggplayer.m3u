@@ -473,8 +473,20 @@ https://stm01.virtualcast.com.br:8000/massafmfloripa
 https://stm01.virtualcast.com.br:8000/massafmgramado
 #EXTINF:-1 tvg-id="ClubeFMBSB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 105.5 Brasília (DF)
 https://8157.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMBSBHLS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 105.5 Brasília (Backup)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBEFM_BSBAAC.aac
 #EXTINF:-1 tvg-id="ClubeFMRibeirao.br" tvg-logo="https://tudoradio.com/img/radios/logos/clube-ribeirao-preto.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 100.5 Ribeirão Preto (SP)
 https://8154.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMBH.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 96.5 Belo Horizonte (MG)
+https://8158.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 101.5 Curitiba (PR)
+https://8160.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMGoiania.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 102.9 Goiânia (GO)
+https://8163.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMSJRP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 88.9 São José do Rio Preto (SP)
+https://8165.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMCampinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 99.7 Campinas (SP)
+https://8167.brasilstream.com.br/stream
 #EXTINF:-1 tvg-id="ClubeFMRecife.br" tvg-logo="https://tudoradio.com/img/radios/logos/clube-recife.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Clube 99.1 FM Recife (PE)
 https://8152.brasilstream.com.br/stream
 #EXTINF:-1 tvg-id="CaiobaCuritiba.br" tvg-logo="https://tudoradio.com/img/radios/logos/caioba-curitiba.png" group-title="Rádios - Popular, Sertanejo e Pagode",Caiobá FM 102.3 Curitiba (PR)
@@ -561,6 +573,122 @@ https://8328.brasilstream.com.br/stream
 https://8330.brasilstream.com.br/stream
 #EXTINF:-1 tvg-id="RadioJovemPalmas.br" tvg-logo="https://tudoradio.com/img/radios/logos/jovem-fm-palmas.png" group-title="Rádios - Popular, Sertanejo e Pagode",Jovem FM 104.7 Palmas (TO)
 https://8258.brasilstream.com.br/stream
+
+=== RÁDIOS DO NORDESTE (RN, PB, CE E REGIÃO) ===
+
+--- RIO GRANDE DO NORTE (NATAL E MOSSORÓ) ---
+
+#EXTINF:-1 tvg-id="TropicalFMNatal.br" tvg-logo="https://tudoradio.com/img/radios/logos/tropical-natal.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Tropical FM 103.9 Natal (RN)
+https://8185.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="DifusoraMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/difusora-mossoro.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Difusora de Mossoró 1170 AM (RN)
+https://stm2.srvaudio.com.br:10844/stream
+#EXTINF:-1 tvg-id="FMResistenciaMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/resistencia-mossoro.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",FM Resistência 93.7 Mossoró (RN)
+https://8410.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="RadioRuralMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/rural-mossoro.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Rural de Mossoró 990 AM (RN)
+https://stm1.srvaudio.com.br:10256/stream
+#EXTINF:-1 tvg-id="95FMMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/95-fm-mossoro.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",95 FM Mossoró 95.7 (RN)
+https://8412.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="98FMMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/98-fm-mossoro.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",98 FM Mossoró 98.7 (RN)
+https://8414.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="PrincesaMossoro.br" tvg-logo="https://tudoradio.com/img/radios/logos/princesa-do-vale-assu.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Princesa do Vale 90.9 FM Assú (RN)
+https://8416.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="98FMNatalNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/98-fm-natal.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",98 FM Natal 98.9 (RN)
+https://8184.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="96FMNatalNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/96-fm-natal.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",96 FM Natal 96.7 (RN)
+https://8182.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="MixFMNatalNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Mix FM Natal 103.9 (RN)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_NATAAC.aac
+#EXTINF:-1 tvg-id="JovemPanNatalNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Jovem Pan FM Natal 89.9 (RN)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NAT_FMAAC.aac
+#EXTINF:-1 tvg-id="JovemPanNewsNatalNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Jovem Pan News Natal 93.5 (RN)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NAT_AMAAC.aac
+#EXTINF:-1 tvg-id="FelizFMNatal.br" tvg-logo="https://tudoradio.com/img/radios/logos/feliz-fm-natal.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Feliz FM 97.9 Natal (RN)
+https://8289.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="RadioRuralCaico.br" tvg-logo="https://tudoradio.com/img/radios/logos/rural-caico.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Rural de Caicó 102.7 FM (RN)
+https://8418.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SeridoCaico.br" tvg-logo="https://tudoradio.com/img/radios/logos/serido-caico.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Seridó 100.7 FM Caicó (RN)
+https://8420.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="UniversitariaNatal.br" tvg-logo="https://tudoradio.com/img/radios/logos/universitaria-natal.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",FM Universitária 88.9 Natal (RN)
+https://stream.ufrn.br/universitariafm
+
+--- CEARÁ (FORTALEZA, SOMZOOM SAT E INTERIOR) ---
+
+#EXTINF:-1 tvg-id="SomZoomSatCE.br" tvg-logo="https://tudoradio.com/img/radios/logos/somzoom-sat-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rede SomZoom Sat Fortaleza (CE)
+https://8135.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SomZoomSatSobral.br" tvg-logo="https://tudoradio.com/img/radios/logos/somzoom-sat-sobral.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",SomZoom Sat Sobral 91.3 FM (CE)
+https://8137.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SomZoomSatCariri.br" tvg-logo="https://tudoradio.com/img/radios/logos/somzoom-sat-cariri.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",SomZoom Sat Cariri 106.5 FM (CE)
+https://8139.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="FM93FortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/fm-93-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",FM 93 93.9 Fortaleza (CE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM93_FORAAC.aac
+#EXTINF:-1 tvg-id="VerdinhaFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/verdes-mares-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Verdinha 92.5 FM Fortaleza (CE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/VERDINHAAAC.aac
+#EXTINF:-1 tvg-id="JangadeiroFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/jangadeiro-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Jangadeiro FM 88.9 Fortaleza (CE)
+https://8134.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="LiderancaFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/lideranca-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Liderança FM 94.3 Fortaleza (CE)
+https://8180.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CidadeFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/cidade-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Cidade 99.1 FM Fortaleza (CE)
+https://8188.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="TempoFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/tempo-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Tempo FM 103.9 Fortaleza (CE)
+https://8190.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="BeachParkFortalezaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/beach-park-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Beach Park FM 102.7 Fortaleza (CE)
+https://8136.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="NovaBrasilFortalezaNE.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",NovaBrasil FM 106.5 Fortaleza (CE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+#EXTINF:-1 tvg-id="JovemPanFortalezaNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Jovem Pan FM 94.7 Fortaleza (CE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_FOR_FMAAC.aac
+#EXTINF:-1 tvg-id="AtlânticoSulFortaleza.br" tvg-logo="https://tudoradio.com/img/radios/logos/atlantico-sul-fortaleza.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Atlântico Sul FM 105.7 Fortaleza (CE)
+https://8191.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="PadreCiceroJuazeiro.br" tvg-logo="https://tudoradio.com/img/radios/logos/padre-cicero-juazeiro-do-norte.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Padre Cícero 104.9 FM Juazeiro (CE)
+https://8193.brasilstream.com.br/stream
+
+--- PARAÍBA (JOÃO PESSOA, CAMPINA GRANDE E SERTÃO) ---
+
+#EXTINF:-1 tvg-id="CaboBrancoJPNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/cabo-branco-joao-pessoa.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Cabo Branco FM 91.5 João Pessoa (PB)
+https://8186.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="98CorreioJPNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/correio-joao-pessoa.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",98 Correio FM João Pessoa (PB)
+https://8198.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SucessoJPNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/sucesso-joao-pessoa.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Sucesso FM 92.9 João Pessoa (PB)
+https://8194.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ArapuanJP.br" tvg-logo="https://tudoradio.com/img/radios/logos/arapuan-joao-pessoa.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Arapuan FM 95.3 João Pessoa (PB)
+https://8195.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="TabajaraPB.br" tvg-logo="https://tudoradio.com/img/radios/logos/tabajara-joao-pessoa.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Tabajara 105.5 FM João Pessoa (PB)
+https://8197.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CampinaFMNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/campina-fm-campina-grande.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Campina FM 93.1 Campina Grande (PB)
+https://8196.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CorreioCampina.br" tvg-logo="https://tudoradio.com/img/radios/logos/correio-campina-grande.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Correio FM 98.1 Campina Grande (PB)
+https://8199.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CaturiteCampina.br" tvg-logo="https://tudoradio.com/img/radios/logos/caturite-campina-grande.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Caturité 104.1 FM Campina Grande (PB)
+https://8201.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="MixFMJPNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Mix FM 93.7 João Pessoa (PB)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_JPAAAC.aac
+#EXTINF:-1 tvg-id="JovemPanJPNE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Jovem Pan FM 102.5 João Pessoa (PB)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_JPA_FMAAC.aac
+#EXTINF:-1 tvg-id="EspinharasPatos.br" tvg-logo="https://tudoradio.com/img/radios/logos/espinharas-patos.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Espinharas 97.9 FM Patos (PB)
+https://8203.brasilstream.com.br/stream
+
+--- DEMAIS CAPITAIS DO NORDESTE (PE, BA, AL, SE, PI, MA) ---
+
+#EXTINF:-1 tvg-id="RadioJornalRecifeNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/jornal-recife.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Jornal 90.3 FM Recife (PE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JORNAL_RECAAC.aac
+#EXTINF:-1 tvg-id="RecifeFMNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/recife-fm.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Recife FM 97.5 (PE)
+https://8150.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="ClubeFMRecifeNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/clube-recife.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Rádio Clube 99.1 FM Recife (PE)
+https://8152.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="PiataSalvadorNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/piata-salvador.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Piatã FM 94.3 Salvador (BA)
+https://streaming.livespanel.com:20010/stream
+#EXTINF:-1 tvg-id="ItapoanSalvadorNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/itapoan-salvador.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Itapoan FM 97.5 Salvador (BA)
+https://cast4.audiostream.com.br:2655/mp3
+#EXTINF:-1 tvg-id="GFMSalvadorNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/gfm-salvador.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",GFM 90.1 Salvador (BA)
+https://ice.fabricahost.com.br/radiogfm
+#EXTINF:-1 tvg-id="GazetaMaceioNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/gazeta-maceio.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Gazeta FM 94.1 Maceió (AL)
+https://8166.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SergipeFMNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/sergipe-aracaju.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Sergipe FM 95.9 Aracaju (SE)
+https://8200.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="MeioNorteTeresinaNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/meio-norte-teresina.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Meio Norte FM 99.9 Teresina (PI)
+https://8206.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="MiranteSaoLuisNE.br" tvg-logo="https://tudoradio.com/img/radios/logos/mirante-sao-luis.png" group-title="Rádios - Nordeste (RN, PB, CE e Região)",Mirante FM 96.1 São Luís (MA)
+https://8174.brasilstream.com.br/stream
 
 === GOSPEL, CATÓLICAS E RELIGIOSAS ===
 
