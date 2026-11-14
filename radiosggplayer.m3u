@@ -1,0 +1,243 @@
+#EXTM3U
+
+# === NOTÍCIAS, JORNALISMO E ESPORTES ===
+#EXTINF:-1 tvg-id="CBNSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN São Paulo 90.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
+#EXTINF:-1 tvg-id="CBNRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac
+#EXTINF:-1 tvg-id="CBNBSB.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Brasília 95.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BSAAC.aac
+#EXTINF:-1 tvg-id="CBNBH.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Belo Horizonte 106.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
+#EXTINF:-1 tvg-id="CBNRecife.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Recife 105.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RECAAC.aac
+#EXTINF:-1 tvg-id="CBNCuritiba.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Curitiba 95.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_CWBAAC.aac
+#EXTINF:-1 tvg-id="CBNCampinas.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo.png" group-title="Rádios - Notícias e Esportes",CBN Campinas 99.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_CPQAAC.aac
+#EXTINF:-1 tvg-id="BandNewsSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM São Paulo 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac
+#EXTINF:-1 tvg-id="BandNewsRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Rio de Janeiro 90.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_RJAAC.aac
+#EXTINF:-1 tvg-id="BandNewsBH.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Belo Horizonte 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac
+#EXTINF:-1 tvg-id="BandNewsBSB.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Brasília 90.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BSAAC.aac
+#EXTINF:-1 tvg-id="BandNewsPOA.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Porto Alegre 99.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_POAAAC.aac
+#EXTINF:-1 tvg-id="BandNewsSalvador.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Salvador 99.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SSAAAC.aac
+#EXTINF:-1 tvg-id="BandNewsCuritiba.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/bandnews-logo.png" group-title="Rádios - Notícias e Esportes",BandNews FM Curitiba 96.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_CWBAAC.aac
+#EXTINF:-1 tvg-id="RadioBandeirantesSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_R%C3%A1dio_Bandeirantes.png" group-title="Rádios - Notícias e Esportes",Rádio Bandeirantes São Paulo 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBANDEIRANTESAAC.aac
+#EXTINF:-1 tvg-id="RadioBandeirantesPOA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_R%C3%A1dio_Bandeirantes.png" group-title="Rádios - Notícias e Esportes",Rádio Bandeirantes Porto Alegre 94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RB_POAAAC.aac
+#EXTINF:-1 tvg-id="JovemPanNewsSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Notícias e Esportes",Jovem Pan News São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
+#EXTINF:-1 tvg-id="JovemPanNewsBSB.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Notícias e Esportes",Jovem Pan News Brasília 107.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_BSB_AMAAC.aac
+#EXTINF:-1 tvg-id="RadioGaucha.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_R%C3%A1dio_Ga%C3%BAcha.png" group-title="Rádios - Notícias e Esportes",Rádio Gaúcha 93.7 FM (RS)
+https://playerservices.streamtheworld.com/api/livestream-redirect/GAUCHAAAC.aac
+#EXTINF:-1 tvg-id="RadioItatiaia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logo_Itatiaia.png" group-title="Rádios - Notícias e Esportes",Rádio Itatiaia 95.7 FM (MG)
+https://8903.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="SuperRadioTupi.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a7/Super_R%C3%A1dio_Tupi.png" group-title="Rádios - Notícias e Esportes",Super Rádio Tupi 96.5 FM (RJ)
+https://8923.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="RadioGrenal.br" tvg-logo="https://tudoradio.com/img/radios/logos/grenal-porto-alegre.png" group-title="Rádios - Notícias e Esportes",Rádio Grenal 95.9 FM (RS)
+https://cast4.audiostream.com.br:8649/mp3
+#EXTINF:-1 tvg-id="RadioEldorado.br" tvg-logo="https://tudoradio.com/img/radios/logos/eldorado-sao-paulo.png" group-title="Rádios - Notícias e Esportes",Rádio Eldorado 107.3 FM (SP)
+https://cast4.audiostream.com.br:8652/mp3
+#EXTINF:-1 tvg-id="RadioJornalRecife.br" tvg-logo="https://tudoradio.com/img/radios/logos/jornal-recife.png" group-title="Rádios - Notícias e Esportes",Rádio Jornal 90.3 FM (PE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JORNAL_RECAAC.aac
+#EXTINF:-1 tvg-id="RadioSociedadeBA.br" tvg-logo="https://tudoradio.com/img/radios/logos/sociedade-salvador.png" group-title="Rádios - Notícias e Esportes",Rádio Sociedade da Bahia 102.5 FM (BA)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOCIEDADEAAC.aac
+#EXTINF:-1 tvg-id="RadioInconfidencia.br" tvg-logo="https://tudoradio.com/img/radios/logos/inconfidencia-belo-horizonte.png" group-title="Rádios - Notícias e Esportes",Rádio Inconfidência 100.9 FM (MG)
+https://8116.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="RadioNacionalBSB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_R%C3%A1dio_Nacional.png" group-title="Rádios - Notícias e Esportes",Rádio Nacional Brasília 96.1 FM (DF)
+https://ebc-radionacionalbsb-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="RadioNacionalRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_R%C3%A1dio_Nacional.png" group-title="Rádios - Notícias e Esportes",Rádio Nacional Rio de Janeiro 1130 AM (RJ)
+https://ebc-radionacionalrj-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="RadioMEC.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/R%C3%A1dio_MEC_logo.png" group-title="Rádios - Notícias e Esportes",Rádio MEC FM 99.3 (RJ)
+https://ebc-radiomecfm-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="RadioSenado.br" tvg-logo="https://tudoradio.com/img/radios/logos/senado-brasilia.png" group-title="Rádios - Notícias e Esportes",Rádio Senado 91.7 FM (DF)
+https://radioaovivo.senado.leg.br/radiosenado.mp3
+#EXTINF:-1 tvg-id="RadioCamara.br" tvg-logo="https://tudoradio.com/img/radios/logos/camara-brasilia.png" group-title="Rádios - Notícias e Esportes",Rádio Câmara 96.9 FM (DF)
+https://stream-01.camara.leg.br/radiocamara1
+
+# === POP, ROCK, ELETRÔNICA E JOVEM ===
+#EXTINF:-1 tvg-id="JovemPanFMSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Pop, Rock e Jovem",Jovem Pan FM São Paulo 100.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
+#EXTINF:-1 tvg-id="JovemPanFMRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Pop, Rock e Jovem",Jovem Pan FM Rio de Janeiro 102.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_RJ_FMAAC.aac
+#EXTINF:-1 tvg-id="JovemPanFMBH.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Pop, Rock e Jovem",Jovem Pan FM Belo Horizonte 99.1
+https://sc4s.cdn.upx.com:8036/stream.mp3
+#EXTINF:-1 tvg-id="JovemPanFMBSB.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Pop, Rock e Jovem",Jovem Pan FM Brasília 106.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_BSB_FMAAC.aac
+#EXTINF:-1 tvg-id="JovemPanFMCuritiba.br" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/jovem-pan-logo.png" group-title="Rádios - Pop, Rock e Jovem",Jovem Pan FM Curitiba 103.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_CWB_FMAAC.aac
+#EXTINF:-1 tvg-id="MixFMSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Pop, Rock e Jovem",Mix FM São Paulo 106.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1 tvg-id="MixFMRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Pop, Rock e Jovem",Mix FM Rio de Janeiro 102.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC.aac
+#EXTINF:-1 tvg-id="MixFMPOA.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Pop, Rock e Jovem",Mix FM Porto Alegre 107.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+#EXTINF:-1 tvg-id="MixFMCampinas.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/radio-mix-fm-logo.png" group-title="Rádios - Pop, Rock e Jovem",Mix FM Campinas 101.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CAMPINASAAC.aac
+#EXTINF:-1 tvg-id="89FMRadioRock.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/64/89_FM_A_R%C3%A1dio_Rock.png" group-title="Rádios - Pop, Rock e Jovem",89 FM A Rádio Rock 89.1 (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac
+#EXTINF:-1 tvg-id="KissFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Kiss_FM_S%C3%A3o_Paulo.png" group-title="Rádios - Pop, Rock e Jovem",Kiss FM 92.5 (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISSFMAAC.aac
+#EXTINF:-1 tvg-id="MetropolitanaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c8/Metropolitana_FM.png" group-title="Rádios - Pop, Rock e Jovem",Metropolitana FM 98.5 (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/METROPOLITANAAAC.aac
+#EXTINF:-1 tvg-id="TransamericaSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/08/radio-transamerica-logo.png" group-title="Rádios - Pop, Rock e Jovem",Transamérica FM São Paulo 100.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1 tvg-id="TransamericaRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/08/radio-transamerica-logo.png" group-title="Rádios - Pop, Rock e Jovem",Transamérica FM Rio de Janeiro 101.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RJAAC.aac
+#EXTINF:-1 tvg-id="TransamericaCuritiba.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/08/radio-transamerica-logo.png" group-title="Rádios - Pop, Rock e Jovem",Transamérica FM Curitiba 100.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC.aac
+#EXTINF:-1 tvg-id="Energia97.br" tvg-logo="https://tudoradio.com/img/radios/logos/energia-97-sao-paulo.png" group-title="Rádios - Pop, Rock e Jovem",Energia 97 FM (SP)
+https://aac.97fm.com.br/energia
+#EXTINF:-1 tvg-id="AtlantidaPOA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/08/Rede_Atl%C3%A2ntida.png" group-title="Rádios - Pop, Rock e Jovem",Atlântida FM Porto Alegre 94.3 (RS)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_POAAAC.aac
+#EXTINF:-1 tvg-id="AtlantidaFloripa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/08/Rede_Atl%C3%A2ntida.png" group-title="Rádios - Pop, Rock e Jovem",Atlântida FM Florianópolis 100.9 (SC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_FLNAAC.aac
+#EXTINF:-1 tvg-id="RadioCidadeRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d3/R%C3%A1dio_Cidade_Rio_de_Janeiro.png" group-title="Rádios - Pop, Rock e Jovem",Rádio Cidade 102.9 FM (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1 tvg-id="98FMBH.br" tvg-logo="https://tudoradio.com/img/radios/logos/98-fm-belo-horizonte.png" group-title="Rádios - Pop, Rock e Jovem",98 FM Belo Horizonte 98.3 (MG)
+https://9554.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="DumontFM.br" tvg-logo="https://tudoradio.com/img/radios/logos/dumont-jundiai.png" group-title="Rádios - Pop, Rock e Jovem",Dumont FM 104.3 (SP)
+https://8402.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="GazetaFMSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/gazeta-sao-paulo.png" group-title="Rádios - Pop, Rock e Jovem",Gazeta FM 88.1 (SP)
+https://shout25.crossradio.com.br:18156/1
+#EXTINF:-1 tvg-id="91Rock.br" tvg-logo="https://tudoradio.com/img/radios/logos/91-rock-curitiba.png" group-title="Rádios - Pop, Rock e Jovem",91 Rock Curitiba (PR)
+https://servidor40-4.brlogic.com:8044/live
+#EXTINF:-1 tvg-id="MundoLivreFM.br" tvg-logo="https://tudoradio.com/img/radios/logos/mundo-livre-curitiba.png" group-title="Rádios - Pop, Rock e Jovem",Mundo Livre FM 93.9 (PR)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC.aac
+#EXTINF:-1 tvg-id="RadioDisneyBR.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Radio_Disney_2014_logo.svg/512px-Radio_Disney_2014_logo.svg.png" group-title="Rádios - Pop, Rock e Jovem",Rádio Disney Brasil 91.3 FM (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRAZILAAC.aac
+#EXTINF:-1 tvg-id="89RockDF.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/64/89_FM_A_R%C3%A1dio_Rock.png" group-title="Rádios - Pop, Rock e Jovem",89 FM A Rádio Rock Brasília 100.5 (DF)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO89_BSBAAC.aac
+#EXTINF:-1 tvg-id="89RockGO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/64/89_FM_A_R%C3%A1dio_Rock.png" group-title="Rádios - Pop, Rock e Jovem",89 FM A Rádio Rock Goiânia 102.9 (GO)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO89_GYNAAC.aac
+
+# === ADULTO CONTEMPORÂNEO, FLASHBACK E MPB ===
+#EXTINF:-1 tvg-id="AlphaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/Alpha_FM.png" group-title="Rádios - Adulto e MPB",Alpha FM 101.7 (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHA_FMAAC.aac
+#EXTINF:-1 tvg-id="AlphaFMGO.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/Alpha_FM.png" group-title="Rádios - Adulto e MPB",Alpha FM 102.1 Goiânia (GO)
+https://ice.fabricahost.com.br/alphafm1021
+#EXTINF:-1 tvg-id="Antena1SP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/antena-1-logo.png" group-title="Rádios - Adulto e MPB",Antena 1 São Paulo 94.7 FM
+https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1 tvg-id="Antena1RJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/antena-1-logo.png" group-title="Rádios - Adulto e MPB",Antena 1 Rio de Janeiro 103.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA1_RJAAC.aac
+#EXTINF:-1 tvg-id="Antena1BH.br" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/antena-1-logo.png" group-title="Rádios - Adulto e MPB",Antena 1 Belo Horizonte 105.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA1_BHAAC.aac
+#EXTINF:-1 tvg-id="JBFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/JB_FM.png" group-title="Rádios - Adulto e MPB",JB FM 99.9 (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM São Paulo 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM Rio de Janeiro 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RJAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilBSB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM Brasília 97.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_BSAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilSalvador.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM Salvador 104.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SSAAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilRecife.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM Recife 94.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RECAAC.aac
+#EXTINF:-1 tvg-id="NovaBrasilCampinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/Novabrasil_FM.png" group-title="Rádios - Adulto e MPB",NovaBrasil FM Campinas 103.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_CPQAAC.aac
+#EXTINF:-1 tvg-id="AlvoradaBH.br" tvg-logo="https://tudoradio.com/img/radios/logos/alvorada-belo-horizonte.png" group-title="Rádios - Adulto e MPB",Alvorada FM 94.9 Belo Horizonte (MG)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ALVORADAAAC.aac
+#EXTINF:-1 tvg-id="ItapemaPOA.br" tvg-logo="https://tudoradio.com/img/radios/logos/itapema-porto-alegre.png" group-title="Rádios - Adulto e MPB",102.3 FM Porto Alegre (RS)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ITAPEMA_POAAAC.aac
+#EXTINF:-1 tvg-id="GFMSalvador.br" tvg-logo="https://tudoradio.com/img/radios/logos/gfm-salvador.png" group-title="Rádios - Adulto e MPB",GFM 90.1 Salvador (BA)
+https://ice.fabricahost.com.br/radiogfm
+#EXTINF:-1 tvg-id="SaudadeFM.br" tvg-logo="https://tudoradio.com/img/radios/logos/saudade-santos.png" group-title="Rádios - Adulto e MPB",Saudade FM 99.7 Santos (SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+#EXTINF:-1 tvg-id="OuroVerdeCuritiba.br" tvg-logo="https://tudoradio.com/img/radios/logos/ouro-verde-curitiba.png" group-title="Rádios - Adulto e MPB",Ouro Verde FM 105.5 Curitiba (PR)
+https://playerservices.streamtheworld.com/api/livestream-redirect/OUROVERDEAAC.aac
+#EXTINF:-1 tvg-id="CulturaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Rádios - Adulto e MPB",Rádio Cultura FM 103.3 (SP)
+https://player-radioculturafm.stream.uol.com.br/live/radioculturafm.m3u8
+#EXTINF:-1 tvg-id="CulturaBrasilSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Rádios - Adulto e MPB",Rádio Cultura Brasil 77.9 FM (SP)
+https://player-radioculturabrasil.stream.uol.com.br/live/radioculturabrasil.m3u8
+#EXTINF:-1 tvg-id="SulAmericaParadiso.br" tvg-logo="https://tudoradio.com/img/radios/logos/sulamerica-paradiso-rio-de-janeiro.png" group-title="Rádios - Adulto e MPB",Paradiso Rio FM 95.7 (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SULAMERICAAAC.aac
+
+# === POPULAR, SERTANEJO, PAGODE E REGIONAIS ===
+#EXTINF:-1 tvg-id="BandFMSP.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/band-fm-logo.png" group-title="Rádios - Popular, Sertanejo e Pagode",Band FM São Paulo 96.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.aac
+#EXTINF:-1 tvg-id="BandFMRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/band-fm-logo.png" group-title="Rádios - Popular, Sertanejo e Pagode",Band FM Rio de Janeiro
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_RJAAC.aac
+#EXTINF:-1 tvg-id="NativaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c4/Nativa_FM.png" group-title="Rádios - Popular, Sertanejo e Pagode",Nativa FM São Paulo 95.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.aac
+#EXTINF:-1 tvg-id="NativaFMRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c4/Nativa_FM.png" group-title="Rádios - Popular, Sertanejo e Pagode",Nativa FM Rio de Janeiro 103.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_RJAAC.aac
+#EXTINF:-1 tvg-id="NativaFMCampinas.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c4/Nativa_FM.png" group-title="Rádios - Popular, Sertanejo e Pagode",Nativa FM Campinas 89.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_CPQAAC.aac
+#EXTINF:-1 tvg-id="RadioGloboRJ.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/radio-globo-logo.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Globo Rio de Janeiro 98.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_RJAAC.aac
+#EXTINF:-1 tvg-id="FMODiaRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/FM_O_Dia.png" group-title="Rádios - Popular, Sertanejo e Pagode",FM O Dia 100.5 (RJ)
+https://streaming.livecenterhost.com:8054/stream
+#EXTINF:-1 tvg-id="RadioManiaRJ.br" tvg-logo="https://tudoradio.com/img/radios/logos/mania-rio-de-janeiro.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Mania 91.1 FM (RJ)
+https://stm11.srvaudio.com.br:10478/stream
+#EXTINF:-1 tvg-id="BHFM.br" tvg-logo="https://tudoradio.com/img/radios/logos/bh-fm-belo-horizonte.png" group-title="Rádios - Popular, Sertanejo e Pagode",BH FM 102.1 Belo Horizonte (MG)
+https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
+#EXTINF:-1 tvg-id="LiberdadeBH.br" tvg-logo="https://tudoradio.com/img/radios/logos/liberdade-belo-horizonte.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Liberdade 92.9 FM (MG)
+https://8332.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="105FMSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/105-fm-jundiai.png" group-title="Rádios - Popular, Sertanejo e Pagode",105 FM 105.1 São Paulo (SP)
+https://www.appradio.app:8010/live
+#EXTINF:-1 tvg-id="TranscontinentalSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/transcontinental-mogi-das-cruzes.png" group-title="Rádios - Popular, Sertanejo e Pagode",Transcontinental FM 104.7 (SP)
+https://8366.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="TopFMSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/top-fm-sao-paulo.png" group-title="Rádios - Popular, Sertanejo e Pagode",Top FM 104.1 São Paulo (SP)
+https://cloud1.cdnseguro.com:20000/stream
+#EXTINF:-1 tvg-id="TropicalFMSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/tropical-sao-paulo.png" group-title="Rádios - Popular, Sertanejo e Pagode",Tropical FM 107.9 São Paulo (SP)
+https://shout25.crossradio.com.br:18002/1
+#EXTINF:-1 tvg-id="MassaFMSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/Rede_Massa_FM.png" group-title="Rádios - Popular, Sertanejo e Pagode",Massa FM 92.9 São Paulo (SP)
+https://stm01.virtualcast.com.br:8000/massafmsp
+#EXTINF:-1 tvg-id="MassaFMCuritiba.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/Rede_Massa_FM.png" group-title="Rádios - Popular, Sertanejo e Pagode",Massa FM 97.7 Curitiba (PR)
+https://stm01.virtualcast.com.br:8000/massafmcuritiba
+#EXTINF:-1 tvg-id="ClubeFMBSB.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/25/Clube_FM_Bras%C3%ADlia.png" group-title="Rádios - Popular, Sertanejo e Pagode",Clube FM 105.5 Brasília (DF)
+https://8157.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CaiobaCuritiba.br" tvg-logo="https://tudoradio.com/img/radios/logos/caioba-curitiba.png" group-title="Rádios - Popular, Sertanejo e Pagode",Caiobá FM 102.3 Curitiba (PR)
+https://cast4.audiostream.com.br:2650/mp3
+#EXTINF:-1 tvg-id="93FMCuritiba.br" tvg-logo="https://tudoradio.com/img/radios/logos/93-fm-curitiba.png" group-title="Rádios - Popular, Sertanejo e Pagode",93 FM Curitiba (PR)
+https://cast4.audiostream.com.br:2651/mp3
+#EXTINF:-1 tvg-id="FarroupilhaPOA.br" tvg-logo="https://tudoradio.com/img/radios/logos/farroupilha-porto-alegre.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Farroupilha 92.1 FM (RS)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FARROUPILHAAAC.aac
+#EXTINF:-1 tvg-id="92FMPOA.br" tvg-logo="https://tudoradio.com/img/radios/logos/92-porto-alegre.png" group-title="Rádios - Popular, Sertanejo e Pagode",92 FM Porto Alegre (RS)
+https://playerservices.streamtheworld.com/api/livestream-redirect/92FMAAC.aac
+#EXTINF:-1 tvg-id="PiatãSalvador.br" tvg-logo="https://tudoradio.com/img/radios/logos/piata-salvador.png" group-title="Rádios - Popular, Sertanejo e Pagode",Piatã FM 94.3 Salvador (BA)
+https://streaming.livespanel.com:20010/stream
+#EXTINF:-1 tvg-id="ItapoanSalvador.br" tvg-logo="https://tudoradio.com/img/radios/logos/itapoan-salvador.png" group-title="Rádios - Popular, Sertanejo e Pagode",Itapoan FM 97.5 Salvador (BA)
+https://cast4.audiostream.com.br:2655/mp3
+#EXTINF:-1 tvg-id="BahiaFM.br" tvg-logo="https://tudoradio.com/img/radios/logos/bahia-fm-salvador.png" group-title="Rádios - Popular, Sertanejo e Pagode",Bahia FM 88.7 Salvador (BA)
+https://ice.fabricahost.com.br/bahiafm887
+#EXTINF:-1 tvg-id="JangadeiroFortaleza.br" tvg-logo="https://tudoradio.com/img/radios/logos/jangadeiro-fortaleza.png" group-title="Rádios - Popular, Sertanejo e Pagode",Jangadeiro FM 88.9 Fortaleza (CE)
+https://8134.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="VerdesMaresFortaleza.br" tvg-logo="https://tudoradio.com/img/radios/logos/verdes-mares-fortaleza.png" group-title="Rádios - Popular, Sertanejo e Pagode",Verdinha 92.5 FM Fortaleza (CE)
+https://playerservices.streamtheworld.com/api/livestream-redirect/VERDINHAAAC.aac
+#EXTINF:-1 tvg-id="ClubeDoPara.br" tvg-logo="https://tudoradio.com/img/radios/logos/clube-do-para-belem.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rádio Clube do Pará 106.9 FM (PA)
+https://8170.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="RaulandBelem.br" tvg-logo="https://tudoradio.com/img/radios/logos/rauland-belem.png" group-title="Rádios - Popular, Sertanejo e Pagode",Rauland FM 95.1 Belém (PA)
+https://stm1.srvif.com:6672/stream
+#EXTINF:-1 tvg-id="DifusoraManaus.br" tvg-logo="https://tudoradio.com/img/radios/logos/difusora-manaus.png" group-title="Rádios - Popular, Sertanejo e Pagode",Difusora FM 96.9 Manaus (AM)
+https://8324.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="PositividadeRJ.br" tvg-logo="https://tudoradio.com/img/radios/logos/positividade-rio-de-janeiro.png" group-title="Rádios - Popular, Sertanejo e Pagode",Positividade FM 104.5 (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADEAAC.aac
+
+# === GOSPEL E RELIGIOSAS ===
+#EXTINF:-1 tvg-id="RadioMelodiaRJ.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/R%C3%A1dio_Melodia.png" group-title="Rádios - Gospel e Religiosas",Rádio Melodia 97.5 FM (RJ)
+https://9899.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="93FMRJ.br" tvg-logo="https://tudoradio.com/img/radios/logos/93-fm-rio-de-janeiro.png" group-title="Rádios - Gospel e Religiosas",93 FM Gospel 93.3 (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
+#EXTINF:-1 tvg-id="FelizFMSP.br" tvg-logo="https://tudoradio.com/img/radios/logos/feliz-fm-sao-paulo.png" group-title="Rádios - Gospel e Religiosas",Feliz FM 92.5 São Paulo (SP)
+https://8282.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="CancaoNovaFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/14/Logo_Can%C3%A7%C3%A3o_Nova.png" group-title="Rádios - Gospel e Religiosas",Rádio Canção Nova 96.3 FM (SP)
+https://cnhls-lh.akamaihd.net/i/radiocn_1@147036/master.m3u8
+#EXTINF:-1 tvg-id="RadioAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/23/R%C3%A1dio_Aparecida.png" group-title="Rádios - Gospel e Religiosas",Rádio Aparecida 104.3 FM (SP)
+https://8124.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="NovoTempoFM.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_Novo_Tempo.png" group-title="Rádios - Gospel e Religiosas",Rádio Novo Tempo 95.7 FM
+https://stream.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeAleluia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/Rede_Aleluia.png" group-title="Rádios - Gospel e Religiosas",Rede Aleluia 99.5 FM (SP)
+https://9160.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="EvangelizarCuritiba.br" tvg-logo="https://tudoradio.com/img/radios/logos/evangelizar-curitiba.png" group-title="Rádios - Gospel e Religiosas",Rádio Evangelizar 99.5 FM (PR)
+https://8104.brasilstream.com.br/stream
